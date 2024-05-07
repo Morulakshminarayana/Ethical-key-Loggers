@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "name": "Shreyansh Jain",
+            "email": "shreyanshjain.tsk221@gmail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "e10adc3949ba59abbe56e057f20f883e"
+        },
+        {
+            "name": "test",
+            "email": "test@gmail.com",
+            "age": 12,
+            "sex": "Male",
+            "password": "ceb6c970658f31504a901b89dcd3e461"
+        },
+        {
+            "name": "Lakshmi Narayana Moru",
+            "email": "morulakshminarayana@gmail.com",
+            "age": 21,
+            "sex": "Male",
+            "password": "9c541251d93ad1a249853f854ff6675b"
+        }
+    ]
+}
